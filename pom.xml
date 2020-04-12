@@ -101,8 +101,8 @@
         <configuration>
           <schemaVersion>V2</schemaVersion>
           <resourceGroup>AzureLearning</resourceGroup>
-          <appName>azure-app-jhoespro</appName>
-          <pricingTier>B1</pricingTier>
+          <appName>azure-pipeline-jhoespro</appName>
+          <pricingTier>P1V2</pricingTier>
           <region>eastus</region>
           <runtime>
             <os>linux</os>
