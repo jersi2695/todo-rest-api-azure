@@ -12,10 +12,10 @@ variables:
   azureSubscription: '3839e21b-cbbd-43a0-9d8c-824d443fdf1a'
   
   # Web app name
-  webAppName: 'azure-app-jhoespro'
+  webAppName: 'azure-pipeline-jhoespro'
 
   # Environment name
-  environmentName: 'azure-app-jhoespro'
+  environmentName: 'azure-pipeline-jhoespro'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
